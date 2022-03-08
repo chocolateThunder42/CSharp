@@ -1,0 +1,52 @@
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\HelloF#World.exe
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\HelloF#World.deps.json
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\HelloF#World.runtimeconfig.json
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\HelloF#World.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\HelloF#World.pdb
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.fsproj.AssemblyReference.cache
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.AssemblyInfoInputs.cache
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.AssemblyInfo.fs
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.fsproj.CopyComplete
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.dll
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.pdb
+C:\Users\chocm001\documents\c#\HelloF#World\obj\Debug\net6.0\HelloF#World.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\HelloF#World.exe
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\HelloF#World.deps.json
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\HelloF#World.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\HelloF#World.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\HelloF#World.pdb
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\FSharp.Core.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.fsproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.AssemblyInfo.fs
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.fsproj.CopyComplete
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.pdb
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloF#World\obj\Debug\net6.0\HelloF#World.genruntimeconfig.cache

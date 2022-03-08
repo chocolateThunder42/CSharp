@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01-Hello world",
+    "\\01-Hello world\\HelloWorld",
+    "\\02-Basics-part-1",
+    "\\03-classes-structs"
+  ],
+  "SelectedNode": "\\03-classes-structs\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

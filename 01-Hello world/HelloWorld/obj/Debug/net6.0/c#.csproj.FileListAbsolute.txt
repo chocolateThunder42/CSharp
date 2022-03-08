@@ -1,0 +1,45 @@
+C:\Users\chocm001\documents\c#\bin\Debug\net6.0\c#.exe
+C:\Users\chocm001\documents\c#\bin\Debug\net6.0\c#.deps.json
+C:\Users\chocm001\documents\c#\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\Users\chocm001\documents\c#\bin\Debug\net6.0\c#.dll
+C:\Users\chocm001\documents\c#\bin\Debug\net6.0\c#.pdb
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.dll
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\refint\c#.dll
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.pdb
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\c#.genruntimeconfig.cache
+C:\Users\chocm001\documents\c#\obj\Debug\net6.0\ref\c#.dll
+C:\Users\chocm001\documents\c#\HelloWorld\bin\Debug\net6.0\c#.exe
+C:\Users\chocm001\documents\c#\HelloWorld\bin\Debug\net6.0\c#.deps.json
+C:\Users\chocm001\documents\c#\HelloWorld\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\Users\chocm001\documents\c#\HelloWorld\bin\Debug\net6.0\c#.dll
+C:\Users\chocm001\documents\c#\HelloWorld\bin\Debug\net6.0\c#.pdb
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.dll
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\refint\c#.dll
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.pdb
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\c#.genruntimeconfig.cache
+C:\Users\chocm001\documents\c#\HelloWorld\obj\Debug\net6.0\ref\c#.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.AssemblyInfo.cs
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\refint\c#.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.pdb
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\bin\Debug\net6.0\c#.exe
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\bin\Debug\net6.0\c#.deps.json
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\bin\Debug\net6.0\c#.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\bin\Debug\net6.0\c#.dll
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\bin\Debug\net6.0\c#.pdb
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\c#.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\01-Hello world\HelloWorld\obj\Debug\net6.0\ref\c#.dll

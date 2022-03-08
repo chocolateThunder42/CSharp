@@ -1,0 +1,15 @@
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.csproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.AssemblyInfo.cs
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.csproj.CoreCompileInputs.cache
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\bin\Debug\net6.0\02-Basics-part-1.exe
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\bin\Debug\net6.0\02-Basics-part-1.deps.json
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\bin\Debug\net6.0\02-Basics-part-1.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\bin\Debug\net6.0\02-Basics-part-1.dll
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\bin\Debug\net6.0\02-Basics-part-1.pdb
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.dll
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\refint\02-Basics-part-1.dll
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.pdb
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\02-Basics-part-1.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\02-Basics-part-1\obj\Debug\net6.0\ref\02-Basics-part-1.dll
