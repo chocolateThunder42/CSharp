@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\03-classes-structs.csproj",
-      "projectName": "03-classes-structs",
-      "projectPath": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\03-classes-structs.csproj",
+      "projectUniqueName": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\Constructors+Object-Initializers\\Constructors+Object-Initializers.csproj",
+      "projectName": "Constructors+Object-Initializers",
+      "projectPath": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\Constructors+Object-Initializers\\Constructors+Object-Initializers.csproj",
       "packagesPath": "C:\\Users\\chocm001\\.nuget\\packages\\",
-      "outputPath": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\obj\\",
+      "outputPath": "C:\\sessions\\c#\\TheHiveExercises\\03-classes-structs\\Constructors+Object-Initializers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

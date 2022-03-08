@@ -1,0 +1,15 @@
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\bin\Debug\net6.0\structs.exe
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\bin\Debug\net6.0\structs.deps.json
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\bin\Debug\net6.0\structs.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\bin\Debug\net6.0\structs.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\bin\Debug\net6.0\structs.pdb
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.csproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.AssemblyInfo.cs
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.csproj.CoreCompileInputs.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\refint\structs.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.pdb
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\structs.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\structs\obj\Debug\net6.0\ref\structs.dll

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "03-classes-structs/1.0.0": {
+      "Constructors+Object-Initializers/1.0.0": {
         "runtime": {
-          "03-classes-structs.dll": {}
+          "Constructors+Object-Initializers.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "03-classes-structs/1.0.0": {
+    "Constructors+Object-Initializers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

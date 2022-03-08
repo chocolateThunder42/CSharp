@@ -1,0 +1,15 @@
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\bin\Debug\net6.0\Constructors+Object-Initializers.exe
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\bin\Debug\net6.0\Constructors+Object-Initializers.deps.json
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\bin\Debug\net6.0\Constructors+Object-Initializers.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\bin\Debug\net6.0\Constructors+Object-Initializers.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\bin\Debug\net6.0\Constructors+Object-Initializers.pdb
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.csproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.AssemblyInfo.cs
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.csproj.CoreCompileInputs.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\refint\Constructors+Object-Initializers.dll
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.pdb
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\Constructors+Object-Initializers.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\03-classes-structs\Constructors+Object-Initializers\obj\Debug\net6.0\ref\Constructors+Object-Initializers.dll
