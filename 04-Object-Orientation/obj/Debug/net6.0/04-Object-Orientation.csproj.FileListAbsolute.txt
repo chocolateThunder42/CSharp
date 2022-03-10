@@ -1,0 +1,15 @@
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.csproj.AssemblyReference.cache
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.GeneratedMSBuildEditorConfig.editorconfig
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.AssemblyInfoInputs.cache
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.AssemblyInfo.cs
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.csproj.CoreCompileInputs.cache
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\bin\Debug\net6.0\04-Object-Orientation.exe
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\bin\Debug\net6.0\04-Object-Orientation.deps.json
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\bin\Debug\net6.0\04-Object-Orientation.runtimeconfig.json
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\bin\Debug\net6.0\04-Object-Orientation.dll
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\bin\Debug\net6.0\04-Object-Orientation.pdb
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.dll
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\refint\04-Object-Orientation.dll
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.pdb
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\04-Object-Orientation.genruntimeconfig.cache
+C:\sessions\c#\TheHiveExercises\04-Object-Orientation\obj\Debug\net6.0\ref\04-Object-Orientation.dll
