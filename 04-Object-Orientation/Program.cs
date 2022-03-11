@@ -24,13 +24,18 @@ namespace Experiment
    * classes and class members that are 
    * incomplete and must be implemented in a derived class.
    * 
-   * Commiting to preserve current state
+   * An abstract class cannot be instantiated.
+   * The purpose of an abstract class is to provide a
+   * common definition of a base class that multiple
+   * derived classes can share.
    * 
    * ************************/
 
-  public class Animal
+  public abstract class Animal
   {
     public string? Name { get; set; }
+
+    public abstract string MakesSound();
 
     public string Move(int distance)
     {
@@ -41,16 +46,30 @@ namespace Experiment
   public class Dog : Animal
   {
     public bool HasTail { get; set; }
+
+    public override string MakesSound()
+    {
+        return "Bark bark";
+    }
   }
 
-  /*******************
-  * We could create another class like this.
-  * This class has all of the properties and methods of Animal & Dog
-  * *****************/
+  /* *************************
+   * 
+   * Sealed classes
+   * 
+   * The sealed keyword enables you to prevent the inheritance 
+   * of a class or certain class members.
+   * 
+   * We could create another class like this.
+   * This class has all of the properties and methods of Animal & Dog
+   * 
+   * We cannot inherit from the Bullterrier.
+   * 
+   * *************************/
 
-  public class Bullterrier : Dog
+  public sealed class Bullterrier : Dog
   {
-    public string Colour { get; set; }  
+    public string? Colour { get; set; }  
   }
 
   class Program
@@ -67,11 +86,10 @@ namespace Experiment
       myOtherDog.Colour = "red";
       
       Console.WriteLine(myDog.Move(9));
-      Console.WriteLine(myOtherDog.Move(13));
+      Console.WriteLine(myOtherDog.Move(14));
 
       Console.WriteLine("\nPress any key to exit.");
       Console.ReadKey();
     }
   }
-
 }
