@@ -2,6 +2,16 @@
 
 /* *****************
  * 
+ * Encapsulation
+ * 
+ * According to the principle of encapsulation, 
+ * a class or struct can specify how accessible 
+ * each of its members is to code outside of the 
+ * class/struct.
+ * 
+ * By either using the members of the class/struct, 
+ * or access modifiers. (eg public, private, protected..)
+ * 
  * Inheritance
  * 
  * Inheritance enables you to create new classes 
@@ -11,6 +21,18 @@
  * The class whose members are inherited is called 
  * the base class, and the class that inherits 
  * those members is called the derived class.
+ * 
+ * Polymorphism
+ * 
+ * A Greek word that means "many-shaped" and it has two 
+ * distinct aspects:
+ * 
+ * i)  At run time, objects of a derived class may 
+ *     be treated as objects of a base class in places 
+ *     such as method parameters and collections or arrays.
+ *
+ * ii) Base classes may define and implement virtual methods, 
+ *     and derived classes can override them.
  * 
  * *****************/
 
@@ -77,14 +99,13 @@ namespace Experiment
     static void Main(string[] args)
     {
       Dog myDog = new Dog();
-
-      myDog.Name = "Max";
-
       Bullterrier myOtherDog = new Bullterrier();
 
+      myDog.Name = "Max"
       myOtherDog.Name = "Hellhound";
       myOtherDog.Colour = "red";
       
+      Console.log("Over here...");
       Console.WriteLine(myDog.Move(9));
       Console.WriteLine(myOtherDog.Move(14));
 
